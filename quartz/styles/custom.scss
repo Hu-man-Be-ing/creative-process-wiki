@@ -1,3 +1,23 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.graph {
+  --node: #6aa6ff;
+  --node-active: #3aa675;
+  --node-hover: #ff7f50;
+  --link: #cfcfcf;
+}
+
+.graph text {
+  font-size: 13px;
+  fill: #333;
+}
+
+.graph circle {
+  r: 4;
+}
+
+.graph circle:hover {
+  fill: #ff7f50;
+}
