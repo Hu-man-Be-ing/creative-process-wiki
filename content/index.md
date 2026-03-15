@@ -45,3 +45,16 @@ The Explorer lists every concept in the wiki. You can browse through the full se
 Graph View shows how concepts are connected. Each node represents a page, and the lines between them show relationships. You can use it to visually explore how ideas link together.
 
 # Contribute to the wiki
+Anyone can help improve this wiki.
+
+To contribute, you will need a **GitHub account**. If you don’t already have one, create an account and sign in to GitHub. Each page includes an **“Edit this page on GitHub”** link that lets you suggest changes directly.
+
+When editing, please use **wiki links** to connect concepts. Wiki links use **double brackets**, like this:
+```
+[[law of attraction]]
+[[creative process]]
+```
+
+You can **edit existing pages, expand definitions, add new pages, reorganize content, or remove pages** if they are unnecessary. The goal is to continuously improve the clarity and structure of the wiki.
+
+When you submit your change, it will create a **pull request**. A moderator will review the proposed change and approve it before it is published on the site.
