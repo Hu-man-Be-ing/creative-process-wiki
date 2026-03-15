@@ -1,0 +1,1 @@
+The asking happens automatically through life experience, especially when something feels unwanted, lacking, or unsatisfying. In those moments, your [[physical self]] naturally becomes clearer about what it wants. You do not have to work on asking, because your [[inner being]] immediately recognizes it and sets the creation in motion.

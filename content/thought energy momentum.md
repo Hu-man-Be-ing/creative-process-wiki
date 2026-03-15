@@ -1,0 +1,1 @@
+[[thought energy]] [[momentum]] is the build-up of similar [[thought energy]] over time. Each good-feeling thought adds to high-[[vibration]] [[momentum]], and each repeated negative thought adds to low-[[vibration]] [[momentum]]. What manifests is shaped not by one isolated thought, but by the direction and [[consistency]] of the [[momentum]] you keep going.

@@ -1,0 +1,1 @@
+Allowing is the part of the [[creative process]] that the human self supplies by choosing [[thought energy]]. When your thoughts are high [[vibration]] and feel good, you allow yourself to receive the [[path]] to what you want. When your thoughts are low [[vibration]], you still allow a [[path]], but it is one that leads toward what you do not want.

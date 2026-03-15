@@ -1,0 +1,3 @@
+# response vs reaction
+
+A reaction is an automatic emotional response that occurs when a person responds to a situation without conscious thought, often driven by existing [[beliefs]], habits, or negative emotions such as fear, anger, or frustration. A response is a deliberate and [[conscious choice]] of thought or action after becoming aware of what you are feeling and intentionally choosing how to think or behave. In this way, reactions tend to reinforce low-[[vibration]] [[thought patterns]], while responses allow a person to choose thoughts that feel better and align more closely with the outcome they want.
