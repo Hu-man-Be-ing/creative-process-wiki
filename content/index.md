@@ -32,7 +32,7 @@ A structured definitions encyclopedia of The Creative Process. It includes key t
 - [[path]]
 - [[self-confidence]]
 
-# How to use this wiki
+# How to use the wiki
 This site is organized as a network of connected concepts. It is similar to Wikipedia.
 
 **Links inside pages**  
@@ -43,3 +43,5 @@ The Explorer lists every concept in the wiki. You can browse through the full se
 
 **Graph View (right sidebar)**  
 Graph View shows how concepts are connected. Each node represents a page, and the lines between them show relationships. You can use it to visually explore how ideas link together.
+
+# Contribute to the wiki

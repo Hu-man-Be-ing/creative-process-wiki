@@ -2,12 +2,13 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const EditThisPage: QuartzComponentConstructor = () => {
   function EditThisPageComponent(props: QuartzComponentProps) {
-    const slug = props.fileData.slug
     const repo = "Hu-man-Be-ing/creative-process-wiki"
     const branch = "main"
 
-    const filePath = `content/${slug}.md`
-    const editUrl = `https://github.com/${repo}/edit/${branch}/${filePath}`
+    const relativePath = props.fileData.relativePath
+    if (!relativePath) return null
+
+    const editUrl = `https://github.com/${repo}/edit/${branch}/content/${relativePath}`
 
     return (
       <div class="edit-this-page">
